@@ -3,3 +3,23 @@ C:\Users\j02\Documents\Milton Roney de Oliveira Nobre\lógica de programação\C
 C:\Users\j02\Documents\Milton Roney de Oliveira Nobre\lógica de programação\C#\lista3\qt5\obj\Debug\net8.0\qt5.AssemblyInfo.cs
 C:\Users\j02\Documents\Milton Roney de Oliveira Nobre\lógica de programação\C#\lista3\qt5\obj\Debug\net8.0\qt5.csproj.CoreCompileInputs.cache
 C:\Users\j02\Documents\Milton Roney de Oliveira Nobre\lógica de programação\C#\lista3\qt5\obj\Debug\net8.0\qt5.sourcelink.json
+C:\Users\user\Documents\repositorio_git\lista3\qt5\bin\Debug\net8.0\qt5.exe
+C:\Users\user\Documents\repositorio_git\lista3\qt5\bin\Debug\net8.0\qt5.deps.json
+C:\Users\user\Documents\repositorio_git\lista3\qt5\bin\Debug\net8.0\qt5.runtimeconfig.json
+C:\Users\user\Documents\repositorio_git\lista3\qt5\bin\Debug\net8.0\qt5.dll
+C:\Users\user\Documents\repositorio_git\lista3\qt5\bin\Debug\net8.0\qt5.pdb
+C:\Users\user\Documents\repositorio_git\lista3\qt5\obj\Debug\net8.0\qt5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\repositorio_git\lista3\qt5\obj\Debug\net8.0\qt5.AssemblyInfoInputs.cache
+C:\Users\user\Documents\repositorio_git\lista3\qt5\obj\Debug\net8.0\qt5.AssemblyInfo.cs
+C:\Users\user\Documents\repositorio_git\lista3\qt5\obj\Debug\net8.0\qt5.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repositorio_git\lista3\qt5\obj\Debug\net8.0\qt5.sourcelink.json
+C:\Users\user\Documents\repositorio_git\lista3\qt5\obj\Debug\net8.0\qt5.dll
+C:\Users\user\Documents\repositorio_git\lista3\qt5\obj\Debug\net8.0\refint\qt5.dll
+C:\Users\user\Documents\repositorio_git\lista3\qt5\obj\Debug\net8.0\qt5.pdb
+C:\Users\user\Documents\repositorio_git\lista3\qt5\obj\Debug\net8.0\qt5.genruntimeconfig.cache
+C:\Users\user\Documents\repositorio_git\lista3\qt5\obj\Debug\net8.0\ref\qt5.dll
+C:\Users\user\Documents\repositorio_git\lista3\qt5\build\qt5.exe
+C:\Users\user\Documents\repositorio_git\lista3\qt5\build\qt5.deps.json
+C:\Users\user\Documents\repositorio_git\lista3\qt5\build\qt5.runtimeconfig.json
+C:\Users\user\Documents\repositorio_git\lista3\qt5\build\qt5.dll
+C:\Users\user\Documents\repositorio_git\lista3\qt5\build\qt5.pdb

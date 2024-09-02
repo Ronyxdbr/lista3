@@ -20,26 +20,27 @@ bônus se aplicável.
 ---------------------------------------------------------------------*/
 
 using System;
-using System.Threading.Channels;
 class Program
 {
     public static void Main(String[] args)
     {
-        double dias, recompensa, incremento, i = 0;
+        int dias, recompensainicial, incremento, recompensa = 0;
         string? bonus;
+
         Console.WriteLine("Dias consecutivos: ");
-        double.TryParse(Console.ReadLine(), out dias);
+        int.TryParse(Console.ReadLine(), out dias);
         Console.WriteLine("Recompensa inicial: ");
-        double.TryParse(Console.ReadLine(), out recompensa);
+        int.TryParse(Console.ReadLine(), out recompensainicial);
         Console.WriteLine("Incremento diário: ");
-        double.TryParse(Console.ReadLine(), out incremento);
+        int.TryParse(Console.ReadLine(), out incremento);
         Console.WriteLine("Bônus por marco de dia? (S/N): ");
         bonus = System.Console.ReadLine();
-        
-        System.Console.WriteLine(recompensa + );
-
-        Console.WriteLine($"{100 + cura + pontos} Pontos");
-        Console.WriteLine("\nPressione ENTER para fechar");
-        Console.ReadLine();
+        for (int i = 0; i < dias; i++)
+        {
+            recompensa = recompensa + recompensainicial + (incremento * i);
+        }
+        Console.WriteLine($"{recompensa} moedas");
+        Console.Write("Pressione ENTER para sair");
+        Console.Read();
     }
 }
