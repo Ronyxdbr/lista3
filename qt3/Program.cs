@@ -22,7 +22,7 @@ class Program
 {
     public static void Main(String[] args)
     {
-        int pontos = 0, missao, dificuldade, inimigos, i = 0;
+        int tipos, missao, dificuldade, inimigos, i = 0;
         Console.WriteLine("Missões completadas: ");
         int.TryParse(Console.ReadLine(), out missao);
 
