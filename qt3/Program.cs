@@ -22,35 +22,33 @@ class Program
 {
     public static void Main(String[] args)
     {
-        int tipos, missao, dificuldade, inimigos, i = 0;
-        Console.WriteLine("Missões completadas: ");
-        int.TryParse(Console.ReadLine(), out missao);
+        int tipos, quantidade = 0, capacidade, total = 0;
+        Console.WriteLine("Tipos de item: ");
+        int.TryParse(Console.ReadLine(), out tipos);
 
-        while (i < missao)
+        for (int i = 0; i < tipos; i++)
         {
-            Console.WriteLine("teste");
-            Console.WriteLine($"Dificuldade (missão {i + 1}):\n1 - Fácil (50 pontos por inimigos)\n2 - Médio (100 pontos por inimigos\n3 - Difícil (150 pontos por inimigo)");
-            int.TryParse(Console.ReadLine(), out dificuldade);
-            Console.WriteLine($"Inimigos derrotados (missão {i + 1}): ");
-            int.TryParse(Console.ReadLine(), out inimigos);
-
-            if (dificuldade == 1)
-            {
-                pontos = pontos + (inimigos * 50);
-            }
-            else if (dificuldade == 2)
-            {
-                pontos = pontos + (inimigos * 100);
-            }
-            else if (dificuldade == 3)
-            {
-                pontos = pontos + (inimigos * 150);
-            }
-            i++;
+            Console.WriteLine($"Nome do item {i + 1}:");
+            Console.ReadLine();
+            Console.WriteLine("Quantidade deste item no inventário: ");
+            int.TryParse(Console.ReadLine(), out quantidade);
+            total += quantidade;
         }
+        Console.WriteLine("Capacidade máxima: ");
+        int.TryParse(Console.ReadLine(), out capacidade);
 
-        Console.WriteLine($"{pontos} Pontos");
-        Console.WriteLine("\nPressione ENTER para fechar");
-        Console.ReadLine();
+        if (total > capacidade)
+        {
+            System.Console.WriteLine($"Total: {total} itens. Excede a capacidade.");
+        }
+        else if (total < capacidade)
+        {
+            System.Console.WriteLine($"Total: {total} itens. Dentro da capacidade.");
+        }
+        else if (total == capacidade)
+        {
+            System.Console.WriteLine($"Total: {total} itens. Dentro da capacidade");
+        }
+        
     }
 }

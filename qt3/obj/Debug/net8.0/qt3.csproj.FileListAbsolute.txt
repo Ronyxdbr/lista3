@@ -13,3 +13,23 @@ C:\Users\j02\Documents\Milton Roney de Oliveira Nobre\lógica de programação\C
 C:\Users\j02\Documents\Milton Roney de Oliveira Nobre\lógica de programação\C#\lista3\qt3\obj\Debug\net8.0\qt3.pdb
 C:\Users\j02\Documents\Milton Roney de Oliveira Nobre\lógica de programação\C#\lista3\qt3\obj\Debug\net8.0\qt3.genruntimeconfig.cache
 C:\Users\j02\Documents\Milton Roney de Oliveira Nobre\lógica de programação\C#\lista3\qt3\obj\Debug\net8.0\ref\qt3.dll
+C:\Users\user\Documents\repositorio_git\lista3\qt3\obj\Debug\net8.0\qt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\repositorio_git\lista3\qt3\obj\Debug\net8.0\qt3.AssemblyInfoInputs.cache
+C:\Users\user\Documents\repositorio_git\lista3\qt3\obj\Debug\net8.0\qt3.AssemblyInfo.cs
+C:\Users\user\Documents\repositorio_git\lista3\qt3\obj\Debug\net8.0\qt3.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repositorio_git\lista3\qt3\obj\Debug\net8.0\qt3.sourcelink.json
+C:\Users\user\Documents\repositorio_git\lista3\qt3\obj\Debug\net8.0\qt3.dll
+C:\Users\user\Documents\repositorio_git\lista3\qt3\obj\Debug\net8.0\refint\qt3.dll
+C:\Users\user\Documents\repositorio_git\lista3\qt3\obj\Debug\net8.0\qt3.pdb
+C:\Users\user\Documents\repositorio_git\lista3\qt3\bin\Debug\net8.0\qt3.exe
+C:\Users\user\Documents\repositorio_git\lista3\qt3\bin\Debug\net8.0\qt3.deps.json
+C:\Users\user\Documents\repositorio_git\lista3\qt3\bin\Debug\net8.0\qt3.runtimeconfig.json
+C:\Users\user\Documents\repositorio_git\lista3\qt3\bin\Debug\net8.0\qt3.dll
+C:\Users\user\Documents\repositorio_git\lista3\qt3\bin\Debug\net8.0\qt3.pdb
+C:\Users\user\Documents\repositorio_git\lista3\qt3\obj\Debug\net8.0\qt3.genruntimeconfig.cache
+C:\Users\user\Documents\repositorio_git\lista3\qt3\obj\Debug\net8.0\ref\qt3.dll
+C:\Users\user\Documents\repositorio_git\lista3\qt3\build\qt3.exe
+C:\Users\user\Documents\repositorio_git\lista3\qt3\build\qt3.deps.json
+C:\Users\user\Documents\repositorio_git\lista3\qt3\build\qt3.runtimeconfig.json
+C:\Users\user\Documents\repositorio_git\lista3\qt3\build\qt3.dll
+C:\Users\user\Documents\repositorio_git\lista3\qt3\build\qt3.pdb
