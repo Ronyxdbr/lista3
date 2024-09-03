@@ -14,7 +14,7 @@ O programa deve calcular e mostrar a quantidade total de itens no inventário e 
 dentro da capacidade máxima, informando se está excedido ou não.
 @Lista: 03 - Laços de repetição
 @Autor: Milton Roney de Oliveira Nobre
-@Data: 27/08/2024
+@Data: 03/09/2024
 ---------------------------------------------------------------------*/
 
 using System;
